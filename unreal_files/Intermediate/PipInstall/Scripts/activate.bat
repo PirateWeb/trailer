@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=E:\Uni stuff (Backup 7.12.24)\Uni stuff\4th Year\Advanced 3D Animation\trailer\unreal_files\Intermediate\PipInstall
+set VIRTUAL_ENV=C:\Users\b3y0n\repos\trailer\unreal_files\Intermediate\PipInstall
 
 if not defined PROMPT set PROMPT=$P$G
 
